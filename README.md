@@ -50,4 +50,6 @@ The tree come from my paper manuscript in EV-D68 complete genome sequencing.
 These two files were used to visualize time clock maximum likelihood phylogenetic tree. Tools adopted during the 
 generation of tree plot include: R, ITOL, and Adobe Illustrator, Adobe Photoshop.
 
+## Linux
 
+As most of bioinformatics softwares require supercomputer or linux server to do the calculation, I treat the ability of use Linux system as one of the most important skills in need. Thus, I keep sharpening my Linux skills. Now with more than 3 years experience in bioinformatics, I could set up bioinformatics analysis pipeline on Linux server and carry out data management.
