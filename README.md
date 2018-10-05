@@ -16,7 +16,6 @@ Thus, the download analysis such as alignment, phylogenetic, mutation rate calcu
 be carried out, gigantic amount of manpower was saved, without this tool, this data cleaning 
 work would be quite labor intensive. 
 
-
 ## MySQL
 
 [sex_group_proportion.sql](https://github.com/Marvel1991/data_analysis_visualization/blob/master/sex_proportion.sql)
@@ -27,7 +26,6 @@ was established. The reason for using MySQL was that the 2 Million row data woul
 for management and analysis if EXCEL was adopted. These two scripts were used for summarizing the 
 demographics for clinical samples. The data was stratified by age and gender. The SQL scripts were used
 for counting the number of patients assigned to diffent groups.
-
 
 ## R
 
@@ -47,6 +45,8 @@ This R script was used to carry out multi-nomial logistic regression in R.
 [tree_ps_v3.png](https://github.com/Marvel1991/data_analysis_visualization/blob/master/tree_ps_v3.png)
 
 In order to show my data visualization ability, a high-quality phylogenetic tree picture draw by me was uploaded.
+The tree come from my paper manuscript in EV-D68 complete genome sequencing.
+
 These two files were used to visualize time clock maximum likelihood phylogenetic tree. Tools adopted during the 
 generation of tree plot include: R, ITOL, and Adobe Illustrator, Adobe Photoshop.
 
