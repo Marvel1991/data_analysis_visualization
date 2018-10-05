@@ -1,7 +1,7 @@
 
 # Demonstration of my coding and data analyzing ability
 
-In order to desmontrate my coding skills, the scripts I wrote duing my MSc and MPhil study
+In order to desmontrate my coding skills, __part of the__ scripts I wrote duing my MSc and MPhil study
 were uploaded here. The function of each script was described as follows. Each script __could 
 be opened__ by clicking its file name (blue colored):
 
