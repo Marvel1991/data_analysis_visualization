@@ -1,0 +1,11 @@
+report <- read.csv(file = "report.csv")
+blast <-read.csv(file="blast.csv")
+db<-read.csv(file="db.csv")
+seq<-read.table(file = 'seq.tsv',sep = '\t',header = TRUE)
+
+merged_data<-Reduce(function(dtf1, dtf2) merge(dtf1, dtf2, by = "batch_no", all = TRUE),
+       list(db,report,blast,seq))
+
+write.csv(merged_data,file = "merged.csv")
+
+

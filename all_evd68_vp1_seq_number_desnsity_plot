@@ -1,0 +1,2 @@
+ggplot(data= length_plot, aes(x=length_plot$t_length)) + geom_density(size=0.3) + geom_vline(xintercept = 834, size=3, color="red", linetype="dashed")
++geom_area(fill = "red")
