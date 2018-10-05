@@ -2,7 +2,8 @@
 Here show the scripts I wrote during my study.
 
 ## Perl
-```"get_accession_strain-name_location_length_collection_add_vp1_version3_final.pl"
+```
+"get_accession_strain-name_location_length_collection_add_vp1_version3_final.pl"
 ```
 This is a __perl__ script adopted Bioperl to parse the meta data retrieved from GenBank 
 nucleotide database, the downloaded files were in .gb format,using this script, the VP1 
