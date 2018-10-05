@@ -14,12 +14,14 @@ work would be quite labor intensive.
 
 ## R
 ```
+
 ```
 
 ## Data visualization ability
 
 ## MySQL
-```"age_group_proportion.sql"
+```
+"age_group_proportion.sql"
 ```
 In order to manage over 2 Million rows clinical records data during my MPhil study,a __MySQL database__
 was established. The reason for using MySQL was that the 2 Million row data would be a big challenge
