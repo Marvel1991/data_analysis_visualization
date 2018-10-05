@@ -41,10 +41,13 @@ the code is reusable, re-plot of the chart in furture with new data will become 
 
 This R script was used to carry out multi-nomial logistic regression in R.
 
-## Data visualization ability
+## Data Visualization 
 
 [strain_color_code.csv](https://github.com/Marvel1991/data_analysis_visualization/blob/master/strain_color_code.csv)
+[tree_ps_v3.png](https://github.com/Marvel1991/data_analysis_visualization/blob/master/tree_ps_v3.png)
+
 In order to show my data visualization ability, a high-quality phylogenetic tree picture draw by me was uploaded.
-These two files were used to visulize time clock maximum likelihood phylogenetic tree.
+These two files were used to visualize time clock maximum likelihood phylogenetic tree. Tools adopted during the 
+generation of tree plot include: R, ITOL, and Adobe Illustrator, Adobe Photoshop.
 
 
