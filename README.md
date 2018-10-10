@@ -11,10 +11,10 @@ be opened__ by clicking its file name (blue colored):
 
 As most of bioinformatics softwares require supercomputer or linux server to do the calculation, I treat the ability of use Linux system as one of the most important skills in need. Thus, I keep sharpening my Linux skills. Now with more than 3 years experience in bioinformatics, I could set up bioinformatics analysis pipeline on Linux server and carry out data management.
 For example, 
-*carring out data management on Linux Server, e.g. directives like makdir,cp, mv, rm, less, 
-*downloading and implementing softwares/algorithms on Server, e.g. FastQC, cutadapt, bowtie, tophat, DESeq et al.
-*submit analysis jobs through Job Scheduling System (PBS) at supercomputer or server cluster. 
-*write bash script to handle batch data or jobs.
+* carring out data management on Linux Server, e.g. directives like makdir,cp, mv, rm, less, 
+* downloading and implementing softwares/algorithms on Server, e.g. FastQC, cutadapt, bowtie, tophat, DESeq et al.
+* submit analysis jobs through Job Scheduling System (PBS) at supercomputer or server cluster. 
+* write bash script to handle batch data or jobs.
 
 
 ## Perl
