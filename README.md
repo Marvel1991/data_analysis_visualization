@@ -1,9 +1,21 @@
 
 # Demonstration of my coding and data analyzing ability
 
-In order to desmontrate my coding skills, __part of the__ scripts I wrote duing my MSc and MPhil study
+In order to desmontrate my coding skills, part of my `scripts` duing MSc and MPhil study
 were uploaded here. The function of each script was described as follows. Each script __could 
 be opened__ by clicking its file name (blue colored):
+
+---
+
+## Linux
+
+As most of bioinformatics softwares require supercomputer or linux server to do the calculation, I treat the ability of use Linux system as one of the most important skills in need. Thus, I keep sharpening my Linux skills. Now with more than 3 years experience in bioinformatics, I could set up bioinformatics analysis pipeline on Linux server and carry out data management.
+For example, 
+*carring out data management on Linux Server, e.g. directives like makdir,cp, mv, rm, less, 
+*downloading and implementing softwares/algorithms on Server, e.g. FastQC, cutadapt, bowtie, tophat, DESeq et al.
+*submit analysis jobs through Job Scheduling System (PBS) at supercomputer or server cluster. 
+*write bash script to handle batch data or jobs.
+
 
 ## Perl
 
@@ -32,8 +44,8 @@ for counting the number of patients assigned to diffent groups.
 [transform_data_add_Yr_Month_then_monthly_plot.R](https://github.com/Marvel1991/data_analysis_visualization/blob/master/transform_data_add_Yr_Month_then_monthly_plot.R)
 
 In order to transform the date information of samples into desired formats and plot the 
-stacked bar chart, this R script was constructed. The advantages of  R script is that the 
-the code is reusable, re-plot of the chart in furture with new data will become elegant and easy.
+stacked bar chart, this R script was constructed. The advantages of R script are that the 
+the code is reusable, re-plotting chart in furture with new data will become elegant and easy.
 
 [multinomial_test.R](https://github.com/Marvel1991/data_analysis_visualization/blob/master/multi_nomial_A_ref.R)
 
@@ -50,6 +62,4 @@ The tree come from my paper manuscript in EV-D68 complete genome sequencing.
 These two files were used to visualize time clock maximum likelihood phylogenetic tree. Tools adopted during the 
 generation of tree plot include: R, ITOL, and Adobe Illustrator, Adobe Photoshop.
 
-## Linux
 
-As most of bioinformatics softwares require supercomputer or linux server to do the calculation, I treat the ability of use Linux system as one of the most important skills in need. Thus, I keep sharpening my Linux skills. Now with more than 3 years experience in bioinformatics, I could set up bioinformatics analysis pipeline on Linux server and carry out data management.
