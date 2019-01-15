@@ -42,7 +42,7 @@ work would be quite labor intensive.
 
 ## MySQL
 
-[sex_group_proportion.sql](https://github.com/Marvel1991/data_analysis_visualization/blob/master/sex_proportion.sql\
+[sex_group_proportion.sql](https://github.com/Marvel1991/data_analysis_visualization/blob/master/sex_proportion.sql) \
 [age_group_proportion.sql](https://github.com/Marvel1991/data_analysis_visualization/blob/master/age_group_proportion.sql)
 
 In order to manage over 2 Million rows clinical records data during my MPhil study,a __MySQL database__
