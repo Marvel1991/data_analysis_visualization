@@ -1,5 +1,5 @@
 
-# Wang, Haichao: Statement of my coding and data analyzing expertise
+# Wang, Haichao: Statement of my coding and data analysis skills
 
 In order to desmontrate my coding skills, part of my `scripts` duing MSc and MPhil study
 were uploaded here. The function of each script was described as follows. The content of the scripts __could 
