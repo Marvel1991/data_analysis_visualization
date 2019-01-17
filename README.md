@@ -2,8 +2,8 @@
 # Wang, Haichao: Statement of my coding and data analyzing expertise
 
 In order to desmontrate my coding skills, part of my `scripts` duing MSc and MPhil study
-were uploaded here. The function of each script was described as follows. Each script __could 
-be opened__ by clicking its file name (blue colored):
+were uploaded here. The function of each script was described as follows. The content of the scripts __could 
+be checked__ by clicking its blue colored file name:
 
 ---
 ## Buiding scRNA-Seq pipeline software list
