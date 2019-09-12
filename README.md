@@ -6,17 +6,6 @@ were uploaded here. The function of each script was described as follows. The co
 be checked__ by clicking its blue colored file name:
 
 ---
-## Buiding scRNA-Seq pipeline software list
-
-* Reads quality control: FastQC
-* Trimming reads: Trim Galore, Cutadapt, Trimmomatic
-* Demultiplexing/Remove sequencing noise: Perl script:1_Flexible_UMI_Demultiplexing.pl & R package: DropletUtils/EmptyDrops
-* Alignment: Salmon, Kallisto for k-mer alignment; STAR, Tophat
-* Mapping quality control: Python : RSeQC
-* Reads count: HT-seq, FeatureCounts
-* Downstream analysis: R
-
-
 
 
 ## Linux
